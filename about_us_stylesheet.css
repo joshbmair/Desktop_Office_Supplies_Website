@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+div.crux {
+	font: Arial;
+}
+
+div.nav {
+	font: Arial;
+	color: black;
+}
+
+a.nav {
+	font: Arial;
+	color: white;
+	text-decoration: none;
+}
+
+a.sites {
+	font: Arial;
+	color: white;
+}
+
+div.body {
+	font: Arial;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+h1.products {
+	font: Arial;
+	font-weight: bold;
+}
+
+p.products {
+	text-align: center;
+}
